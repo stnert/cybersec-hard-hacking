@@ -13,6 +13,7 @@ Existem vários tipos de keyloggers de hardware, cada um com suas próprias cara
 
 
     
- **3-Keyloggers em cabos de conexão:** Alguns keyloggers são instalados nos cabos de conexão entre o teclado e o computador. Eles interceptam os dados transmitidos entre os dois dispositivos, registrando todas as teclas pressionadas. ![images](https://github.com/stnert/cybersec-hard-hacking/assets/44845442/a5db10d0-0f32-4e56-b102-9a8a3037dec4)
+ **3-Keyloggers em cabos de conexão:** Alguns keyloggers são instalados nos cabos de conexão entre o teclado e o computador. Eles interceptam os dados transmitidos entre os dois dispositivos, registrando todas as teclas pressionadas. 
+ ![images](https://github.com/stnert/cybersec-hard-hacking/assets/44845442/a5db10d0-0f32-4e56-b102-9a8a3037dec4)
     
  **4-Keyloggers de hardware incorporados em hardware malicioso:** Alguns malwares são capazes de infectar dispositivos de hardware, como placas-mãe ou BIOS, para funcionarem como keyloggers. Esses tipos de keyloggers são especialmente difíceis de detectar e remover.
