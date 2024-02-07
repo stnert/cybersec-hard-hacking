@@ -9,7 +9,8 @@ Existem vários tipos de keyloggers de hardware, cada um com suas próprias cara
 **1-Keyloggers em forma de dispositivo USB:** Estes são dispositivos pequenos e discretos que se conectam ao computador através de uma porta USB. Eles podem ser facilmente disfarçados como drives USB normais ou outros periféricos. 
 
  
- **2-Keyloggers de hardware embutidos em teclados:** Alguns keyloggers são integrados diretamente dentro do teclado, geralmente entre a placa de circuito e as teclas. Isso os torna extremamente difíceis de detectar visualmente.![hardware-keylogger-module](https://github.com/stnert/cybersec-hard-hacking/assets/44845442/263f740e-7071-4787-b9c4-ebf3f25d429b)
+ **2-Keyloggers de hardware embutidos em teclados:** Alguns keyloggers são integrados diretamente dentro do teclado, geralmente entre a placa de circuito e as teclas. Isso os torna extremamente difíceis de detectar visualmente.![image](https://github.com/stnert/cybersec-hard-hacking/assets/44845442/a846a26e-0422-4356-aab7-a458c078837b)
+
 
     
  **3-Keyloggers em cabos de conexão:** Alguns keyloggers são instalados nos cabos de conexão entre o teclado e o computador. Eles interceptam os dados transmitidos entre os dois dispositivos, registrando todas as teclas pressionadas. ![images](https://github.com/stnert/cybersec-hard-hacking/assets/44845442/a5db10d0-0f32-4e56-b102-9a8a3037dec4)
