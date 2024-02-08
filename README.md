@@ -57,6 +57,14 @@ Ultracompacto e discreto, com apenas 38 mm (1,5") de comprimento
 ![image](https://github.com/stnert/cybersec-hard-hacking/assets/48295298/ffa4d56e-62fc-416e-9ad8-0b6df090aa26)
 
 
+Modo de reprodução (unidade flash)
+Depois que os dados forem capturados no modo de gravação, você poderá recuperá-los em qualquer computador com porta USB. Isso é feito alternando para o modo Flash Drive. O keylogger de hardware USB e o teclado devem ser conectados da mesma maneira que no modo de gravação.
+
+![image](https://github.com/stnert/cybersec-hard-hacking/assets/48295298/a2afffd4-b054-467c-9b90-258340e47fec)
+
+
+
+
 
 
 
