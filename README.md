@@ -40,6 +40,7 @@ Existem vários tipos de keyloggers de hardware, cada um com suas próprias cara
 
 
 
+
  Características
 
 Enorme capacidade de memória (até 16 gigabytes), organizada como um avançado sistema de arquivos flash FAT
@@ -51,6 +52,7 @@ Transparente para a operação do computador, indetectável para scanners de seg
 Suporte rápido e fácil ao layout nacional
 Ultracompacto e discreto, com apenas 38 mm (1,5") de comprimento
 
+![image](https://github.com/stnert/cybersec-hard-hacking/assets/48295298/64d074ed-6199-4b34-b038-07d41f77a82c)
 
 
 
