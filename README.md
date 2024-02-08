@@ -72,7 +72,9 @@ Pressione essas 3 teclas mágicas simultaneamente para acionar o modo Flash Driv
 
 
 
+O Flash Drive conterá o arquivo LOG.TXT com um registro de texto de todos os dados capturados. Os dados das teclas digitadas são formatados da mesma forma que apareceriam na tela, com teclas especiais entre colchetes ([Ent], [Esc], [Del] etc.). Este arquivo pode ser visualizado e pesquisado com qualquer editor de texto, como Notepad ou MS Word.
 
+![image](https://github.com/stnert/cybersec-hard-hacking/assets/48295298/da664947-7a34-47c7-89af-3f036d1659d2)
 
 
 
