@@ -18,7 +18,8 @@ Existem vários tipos de keyloggers de hardware, cada um com suas próprias cara
  **4-Keyloggers de hardware incorporados em hardware malicioso:** Alguns malwares são capazes de infectar dispositivos de hardware, como placas-mãe ou BIOS, para funcionarem como keyloggers. Esses tipos de keyloggers são especialmente difíceis de detectar e remover.
 
 
-
+# Exemplo: KeyGrabber USB
+KeyGrabber é um gravador de teclas com 16 gb de capacidade de memória. Ele propõe uma recuperação rápida de dados e ser indetectável para o computador, sem necessidade de nenhum software ou drivers. Feito para o  teclado padrão americano.
 
 
 
@@ -68,6 +69,8 @@ Cada dispositivo possui uma combinação integrada de 3 teclas (por padrão K, B
 Pressione essas 3 teclas mágicas simultaneamente para acionar o modo Flash Drive. O keylogger responderá automaticamente como um dispositivo de armazenamento em massa.
 
 ![image](https://github.com/stnert/cybersec-hard-hacking/assets/48295298/f56f7e5c-27f9-4c86-8b8e-34b04bf02eb1)
+
+
 
 
 
