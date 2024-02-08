@@ -63,6 +63,10 @@ Depois que os dados forem capturados no modo de gravação, você poderá recupe
 ![image](https://github.com/stnert/cybersec-hard-hacking/assets/48295298/a2afffd4-b054-467c-9b90-258340e47fec)
 
 
+Cada dispositivo possui uma combinação integrada de 3 teclas (por padrão K, B, S).
+Pressione essas 3 teclas mágicas simultaneamente para acionar o modo Flash Drive. O keylogger responderá automaticamente como um dispositivo de armazenamento em massa.
+
+![image](https://github.com/stnert/cybersec-hard-hacking/assets/48295298/f56f7e5c-27f9-4c86-8b8e-34b04bf02eb1)
 
 
 
