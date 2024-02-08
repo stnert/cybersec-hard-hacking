@@ -40,8 +40,7 @@ Existem vários tipos de keyloggers de hardware, cada um com suas próprias cara
 
 
 
-# Características
-
+ Características
 
 Enorme capacidade de memória (até 16 gigabytes), organizada como um avançado sistema de arquivos flash FAT
 Memória protegida com criptografia forte de 128 bits
