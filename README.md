@@ -77,7 +77,7 @@ O Flash Drive conterá o arquivo LOG.TXT com um registro de texto de todos os da
 ![image](https://github.com/stnert/cybersec-hard-hacking/assets/48295298/da664947-7a34-47c7-89af-3f036d1659d2)
 
 
-![player](https://youtu.be/orMFtIBj-Y0)
+![youtube](https://youtu.be/orMFtIBj-Y0)
 
 
 
